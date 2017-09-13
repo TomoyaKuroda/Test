@@ -32,6 +32,9 @@ public class Average {
             System.out.println("Please enter the third number: ");
             num3=keyboard.nextDouble();
 
+            avg=(num1+num2+num3)/3;
+            
+            System.out.printf("The average of the number is %.1f%n", avg);
         
     }
 }
