@@ -11,6 +11,6 @@ package f17sep13;
  */
 public class comparisons {
     public static void main(String[] args) {
-        System.out.printf("5 > 10 is a %s statement%n", 5>10);
+        System.out.printf("5 == 10 is a %s statement%n", 5==10);
     }
 }
